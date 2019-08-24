@@ -1,0 +1,20 @@
+{
+  "name": "the_census",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/loicemeyo/the_census.git",
+  "author": "Loice Meyo <loicemeyo@gmail.com>",
+  "license": "MIT",
+  "dependencies": {
+    "body-parser": "^1.9.3",
+    "cors": "^2.8.5",
+    "dotenv": "^8.1.0",
+    "express": "^4.9.8",
+    "morgan": "^1.9.1",
+    "path": "^0.12.7",
+    "pg": "^7.12.1",
+    "pg-hstore": "^2.3.3",
+    "sequelize": "^5.16.0",
+    "sequelize-cli": "^5.5.0"
+  }
+}
